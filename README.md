@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="3000" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg"  />
+  <img height="1500" width="10000" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg"  />
 </div>
 
 ###
