@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jazz4299.jazz4299&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jazz4299.jazz4299"  />
 </div>
 
 ###
