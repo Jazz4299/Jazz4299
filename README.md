@@ -33,15 +33,23 @@
 ###
 
 <div align="left">
-  <img src="https://icons8.com/icon/13441/python" height="40" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/13679/java" height="40" alt="java logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="airflow logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/90519/spring-boot" height="40" alt="spring boot logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachespark/apachespark-original.svg" height="40" alt="apache spark logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/81727/azure" height="40" alt="azure logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-original.svg" height="40" alt="devops logo"  />
   <img width="12" />
-  <img src="https://icons8.com/icon/vR6XrZzQr1CN/my-sql" height="40" alt="sql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+ <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+ <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+ <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
 </div>
 
