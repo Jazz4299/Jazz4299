@@ -6,13 +6,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jane-saldanha/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-   <img src="https://cdn-images-1.medium.com/fit/c/64/64/1*2Iz22aUKcIm3-HvoNlmfYQ.png" alt="Medium Logo">
   </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jazz4299.jazz4299&"  />
 </div>
 
 ###
