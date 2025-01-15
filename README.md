@@ -28,7 +28,7 @@
 
 <p align="left">
   I'm Jane Saldanha from India. 🇮🇳<br><br>
-  - 🔭 I’m working as a Data Engineer at Microsoft.<br>
+  - 🔭 I’m working as a Data Engineer at LinkedIn.<br>
   - 📚 Currently expanding my knowledge in Networking.<br>
   - ⚡ Passionate about leveraging AI and data science for innovation.<br>
   - 🌟 In my free time, I love reading, swimming, and binge-watching Netflix.
