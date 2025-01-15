@@ -28,7 +28,7 @@
 
 <p align="left">
   I'm Jane Saldanha from India. 🇮🇳<br><br>
-  - 🔭 I’m working as a Data Engineer at LinkedIn.<br>
+  - 🔭 I’m working as a Software Engineer at LinkedIn.<br>
   - 📚 Currently expanding my knowledge in Networking.<br>
   - ⚡ Passionate about leveraging AI and data science for innovation.<br>
   - 🌟 In my free time, I love reading, swimming, and binge-watching Netflix.
@@ -79,8 +79,9 @@
 <h3 align="left">💼 Experience</h3>
 
 ###
+- **LinkedIn, Software Engineer, Data Science** | Remote (Dec 2024 -  Present)
 
-- **Microsoft, Data Engineer** | Remote (Sep 2023 – Present)
+- **Microsoft, Data Engineer** | Remote (Sep 2023 – Dec 2024)
   - Facilitated data migrations, resulting in a 60% improvement in dataset onboarding.
   - Onboarded four new data sources, increasing platform users by 400 monthly.
   - Enhanced user experience and achieved 80% performance improvement with Spark.
